@@ -4,3 +4,4 @@ streamlit==1.41.0
 joblib
 numpy
 scikit-learn
+category_encoders
